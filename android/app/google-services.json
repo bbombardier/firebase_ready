@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "651994309106",
+    "project_id": "sacramental-church",
+    "storage_bucket": "sacramental-church.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651994309106:android:5d7af0a334712f23c24b6b",
+        "android_client_info": {
+          "package_name": "com.justacatholic.sacramental_church"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651994309106-sa65am1gtmolnem7e0qlk2vtjp3tpotj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.justacatholic.sacramental_church",
+            "certificate_hash": "b7b34c51fcf705e60c718cf8723a48d3ffc9525c"
+          }
+        },
+        {
+          "client_id": "651994309106-dvoqfidoaaf4e87duhus92mdf1uq0s1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG4CWcXPM7gce-ziVy4SHpBWB9yFRUUVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651994309106-dvoqfidoaaf4e87duhus92mdf1uq0s1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
